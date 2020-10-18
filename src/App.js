@@ -6,26 +6,12 @@ import fetchItemData from "./utilities/fetchItemData";
 import Search from "./components/Search";
 import GitHubCorner from "./components/GitHubCorner";
 
-const LoadingApp = () => {
-  return (
-    <div className="helvetica">
-      <p>Loading</p>
-    </div>
-  );
-};
-
-const ErrorApp = (props) => {
-  console.error(props.error);
-  return (
-    <div className="helvetica">
-      <p>Error :(</p>
-    </div>
-  );
+const LoadingApp = (props) => {
+  return <p>Loading...</p>;
 };
 
 const SuccessApp = (props) => {
-  const { data } = props;
-  const { items } = data;
+  const { items } = props;
   const { width } = useWindowSize();
 
   const descriptionText = (
@@ -65,15 +51,36 @@ const SuccessApp = (props) => {
 function App() {
   const { status, value, error } = useAsync(fetchItemData, true);
 
-  if (status === "idle" || status === "pending") {
-    return <LoadingApp />;
+  let innerUi;
+  switch (status) {
+    case "idle":
+      innerUi = <LoadingApp />;
+      break;
+    case "pending":
+      innerUi = <LoadingApp />;
+      break;
+    case "error":
+      throw error;
+    case "success":
+      // Unpack retrieved data.
+      const { items } = value;
+      innerUi = <SuccessApp items={items} />;
+      break;
+    default:
+      console.warn(`Unknown status: ${status} in <App/>.`);
   }
 
-  if (status === "error") {
-    return <ErrorApp error={error} />;
-  }
-
-  return <SuccessApp data={value} />;
+  return (
+    <>
+      <GitHubCorner url="https://github.com/bryik/liked-and-lost" />
+      <div
+        className="helvetica pa3 ma3"
+        style={{ margin: "0 auto", maxWidth: "960px" }}
+      >
+        {innerUi}
+      </div>
+    </>
+  );
 }
 
 export default App;
