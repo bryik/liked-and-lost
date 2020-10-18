@@ -29,11 +29,11 @@ const SuccessApp = (props) => {
     <>
       <GitHubCorner url="https://github.com/bryik/liked-and-lost" />
       <div
-        className="helvetica pa1 ma1 pa3-ns ma3-ns"
+        className="helvetica pa3 ma3"
         style={{ margin: "0 auto", maxWidth: "960px" }}
       >
         <h1 className="f2 lh-title">Liked & Lost Items</h1>
-        <p class="f6 lh-copy measure">
+        <p className="f6 lh-copy measure">
           This is a tool to assist players of{" "}
           <span className="i">Fire Emblem: Three Houses</span> in finding owners
           of lost items and in matching characters with their preferred gifts.
