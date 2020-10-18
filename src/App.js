@@ -25,7 +25,10 @@ const SuccessApp = (props) => {
   const { data } = props;
   const { items } = data;
   return (
-    <div className="helvetica pa1 ma1 pa3-ns ma3-ns">
+    <div
+      className="helvetica pa1 ma1 pa3-ns ma3-ns"
+      style={{ margin: "0 auto", maxWidth: "960px" }}
+    >
       <h1 className="f2 lh-title">Liked & Lost Items</h1>
       <Search items={items} />
     </div>
