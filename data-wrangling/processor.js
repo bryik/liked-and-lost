@@ -3,4 +3,4 @@ const { processLikedItems } = require("./processLikedItems");
 
 processLostItems();
 processLikedItems();
-console.log("Done.\nResults written to /data-wrangling/clean");
+console.log("Done.\nResults written to /public/data");

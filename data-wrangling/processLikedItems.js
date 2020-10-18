@@ -4,9 +4,7 @@ function processLikedItems() {
   const rawLikedItems = JSON.parse(
     fs.readFileSync("data-wrangling/raw/liked-items.json")
   );
-  const characters = JSON.parse(
-    fs.readFileSync("data-wrangling/clean/characters.json")
-  );
+  const characters = JSON.parse(fs.readFileSync("public/data/characters.json"));
 
   // The structure of the raw data is screwed up due to the layout of the original
   // table. Characters that have more than 4 liked items (such as Bernadetta) get
@@ -41,7 +39,7 @@ function processLikedItems() {
   }
 
   fs.writeFileSync(
-    "data-wrangling/clean/liked-items.json",
+    "public/data/liked-items.json",
     JSON.stringify(likedItems, null, 2)
   );
 }

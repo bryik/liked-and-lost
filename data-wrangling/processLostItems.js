@@ -17,13 +17,10 @@ function processLostItems() {
   }
 
   fs.writeFileSync(
-    "data-wrangling/clean/lost-items.json",
+    "public/data/lost-items.json",
     JSON.stringify(lostItems, null, 2)
   );
-  fs.writeFileSync(
-    "data-wrangling/clean/characters.json",
-    JSON.stringify(characters)
-  );
+  fs.writeFileSync("public/data/characters.json", JSON.stringify(characters));
 }
 
 module.exports = { processLostItems };
