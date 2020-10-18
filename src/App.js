@@ -25,8 +25,7 @@ const SuccessApp = (props) => {
   const { data } = props;
   const { items } = data;
   return (
-    <div className="helvetica pa3 ma3">
-      <h2 className="f3 lh-title fr">(FE: Three Houses)</h2>
+    <div className="helvetica pa1 ma1 pa3-ns ma3-ns">
       <h1 className="f2 lh-title">Liked & Lost Items</h1>
       <Search items={items} />
     </div>
