@@ -1,0 +1,245 @@
+{
+  "Edelgard": [
+    "Carnation",
+    "Armored Bear Stuffy",
+    "Monarch Studies Book",
+    "Board Game"
+  ],
+  "Dimitri": [
+    "Training Weight",
+    "Whetstone",
+    "Riding Boots",
+    "Ceremonial Sword"
+  ],
+  "Claude": [
+    "Riding Boots",
+    "Book of Crest Designs",
+    "Exotic Spices",
+    "Board Game"
+  ],
+  "Hubert": [
+    "Coffee Beans",
+    "Board Game",
+    "The History of Fodlan"
+  ],
+  "Ferdinand": [
+    "Riding Boots",
+    "Whetstone",
+    "Tea Leaves"
+  ],
+  "Linhardt": [
+    "Tasty Baked Treat",
+    "Book of Crest Designs",
+    "Fishing Float"
+  ],
+  "Caspar": [
+    "Training Weight",
+    "Whetstone",
+    "Hunting Dagger",
+    "Smoked Meat"
+  ],
+  "Bernadetta": [
+    "Pitcher Plant",
+    "Armored Bear Stuffy",
+    "Book of Sheet Music",
+    "Watering Can",
+    "Landscape Painting",
+    "Dapper Handkerchief"
+  ],
+  "Dorothea": [
+    "Book of Sheet Music",
+    "Gemstone Beads",
+    "Stylish Hair Clip"
+  ],
+  "Petra": [
+    "Sunflower",
+    "Hunting Dagger",
+    "Exotic Spices",
+    "Smoked Meat"
+  ],
+  "Dedue": [
+    "Exotic Spices",
+    "Floral Adornment",
+    "Watering Can"
+  ],
+  "Felix": [
+    "Smoked Meat",
+    "Hunting Dagger",
+    "Training Weight",
+    "Ceremonial Sword"
+  ],
+  "Ashe": [
+    "Violet",
+    "Legends of Chivalry",
+    "Exotic Spices",
+    "Tasty Baked Treat",
+    "Ancient Coin"
+  ],
+  "Sylvain": [
+    "Landscape Painting",
+    "Dapper Handkerchief",
+    "Board Game"
+  ],
+  "Mercedes": [
+    "Lavender",
+    "Tasty Bake Treat",
+    "Goddess Statuette",
+    "Armored Bear Stuffy",
+    "Gemstone Beads"
+  ],
+  "Annette": [
+    "Book of Sheet Music",
+    "Stylish Hair Clip",
+    "Arithmetic Textbook"
+  ],
+  "Ingrid": [
+    "Riding Boots",
+    "Smoked Meat",
+    "Legends of Chivalry"
+  ],
+  "Lorenz": [
+    "Rose",
+    "Floral Adornment",
+    "Tea Leaves",
+    "Book of Sheet Music"
+  ],
+  "Raphael": [
+    "Smoked Meat",
+    "Training Weight",
+    "Tasty Baked Treat",
+    "Blue Cheese"
+  ],
+  "Ignatz": [
+    "Forget-me-nots",
+    "Ancient Coin",
+    "Landscape Painting",
+    "Goddess Statuette",
+    "Ceremonial Sword"
+  ],
+  "Lysithea": [
+    "Lily",
+    "Armored Bear Stuffy",
+    "Arithmetic Textbook",
+    "Tasty Baked Treat",
+    "Book of Crest Designs"
+  ],
+  "Marianne": [
+    "Lily of the Valley",
+    "Dapper Handkerchief",
+    "Floral Adornment",
+    "Armored Bear Stuffy"
+  ],
+  "Hilda": [
+    "Anemone",
+    "Gemstone Beads",
+    "Dapper Handkerchief",
+    "Book of Sheet Music",
+    "Stylish Hair Clip",
+    "Armored Bear Stuffy"
+  ],
+  "Leonie": [
+    "Hunting Dagger",
+    "Training Weight",
+    "Fishing Float"
+  ],
+  "Seteth": [
+    "The History of Fodlan",
+    "Fishing Float",
+    "Dapper Handkerchief"
+  ],
+  "Flayn": [
+    "Forget-me-nots",
+    "Tasty Baked Treat",
+    "Armored Bear Stuffy",
+    "Stylish Hair Clip",
+    "Dapper Handkerchief"
+  ],
+  "Hanneman": [
+    "Arithmetic Textbook",
+    "Tea Leaves",
+    "Book of Crest Designs",
+    "Dapper Handkerchief"
+  ],
+  "Manuela": [
+    "Book of Sheet Music",
+    "Gemstone Beads",
+    "Blue Cheese",
+    "Goddess Statuette"
+  ],
+  "Gilbert": [
+    "Goddess Statuette",
+    "Fishing Float",
+    "Ceremonial Sword"
+  ],
+  "Alois": [
+    "Sunflower",
+    "Ancient Coin",
+    "Fishing Float",
+    "Floral Adornment"
+  ],
+  "Catherine": [
+    "Training Weight",
+    "Whetstone",
+    "Legends of Chivalry",
+    "Blue Cheese"
+  ],
+  "Shamir": [
+    "Sunflower",
+    "Exotic Spices",
+    "Coffee Beans",
+    "Hunting Dagger",
+    "Book of Sheet Music"
+  ],
+  "Cyril": [
+    "Baby’s Breath",
+    "Smoked Meat",
+    "Hunting Dagger",
+    "Watering Can"
+  ],
+  "Jeralt (NPC)": [],
+  "Rhea (NPC)": [
+    "Landscape Painting",
+    "Goddess Statuette",
+    "Ancient Coin"
+  ],
+  "Yuri": [
+    "Board Game",
+    "Tasty Baked Treat",
+    "Goddess Statuette",
+    "Arithmetic Textbook"
+  ],
+  "Balthus": [
+    "Ancient Coin",
+    "Ceremonial Sword",
+    "Whetstone",
+    "Blue Cheese"
+  ],
+  "Constance": [
+    "Lily of the Valley",
+    "Tea Leaves",
+    "Arithmetic Textbook",
+    "Book of Crest Designs"
+  ],
+  "Hapi": [
+    "Pitcher Plant",
+    "Tasty Baked Treat",
+    "Smoked Meat",
+    "Exotic Spices",
+    "Coffee Beans",
+    "Hunting Dagger"
+  ],
+  "Jeritza": [
+    "Rose",
+    "Tasty Baked Treat",
+    "Whetstone",
+    "Hunting Dagger"
+  ],
+  "Anna": [
+    "Forget-me-nots",
+    "Exotic Spices",
+    "Coffee Beans",
+    "Blue Cheese",
+    "Landscape Painting",
+    "Goddess Statuette"
+  ]
+}
