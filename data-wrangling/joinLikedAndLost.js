@@ -7,9 +7,6 @@ function joinLikedAndLost(likedItems, lostItems) {
   const uniqueItemNames = Array.from(new Set(allItemNames));
 
   // Create Item objects.
-  // const allItems = uniqueItemNames.map((name) => {
-  //   return { name, likedBy: [], lostBy: [] };
-  // });
   const allItems = uniqueItemNames.reduce((acc, curr) => {
     acc[curr] = { name: curr, likedBy: [], lostBy: [] };
     return acc;
