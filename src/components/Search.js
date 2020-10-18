@@ -58,7 +58,7 @@ export default function Search(props) {
           {searchInputNote}
         </small>
       </div>
-      <ItemTable searchExpression={searchExpression} items={filteredItems} />
+      <ItemTable items={filteredItems} />
     </div>
   );
 }
