@@ -1,7 +1,17 @@
 import React, { useState, useMemo } from "react";
+import PropTypes from "prop-types";
 
 import ItemTable from "./ItemTable";
 
+Search.propTypes = {
+  items: PropTypes.arrayOf(
+    PropTypes.shape({
+      name: PropTypes.string,
+      likedBy: PropTypes.arrayOf(PropTypes.string),
+      lostBy: PropTypes.arrayOf(PropTypes.string),
+    })
+  ),
+};
 export default function Search(props) {
   const { items } = props;
   const [searchExpression, setSearchExpression] = useState("");

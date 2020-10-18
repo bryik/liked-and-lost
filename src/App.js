@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from "prop-types";
 
 import { useAsync } from "./hooks/useAsync";
 import useWindowSize from "./hooks/useWindowSize";
@@ -46,6 +47,15 @@ const SuccessApp = (props) => {
       </div>
     </>
   );
+};
+SuccessApp.propTypes = {
+  items: PropTypes.arrayOf(
+    PropTypes.shape({
+      name: PropTypes.string,
+      likedBy: PropTypes.arrayOf(PropTypes.string),
+      lostBy: PropTypes.arrayOf(PropTypes.string),
+    })
+  ),
 };
 
 function App() {
