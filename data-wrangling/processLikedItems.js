@@ -1,11 +1,4 @@
-const fs = require("fs");
-
-function processLikedItems() {
-  const rawLikedItems = JSON.parse(
-    fs.readFileSync("data-wrangling/raw/liked-items.json")
-  );
-  const characters = JSON.parse(fs.readFileSync("public/data/characters.json"));
-
+function processLikedItems(rawLikedItems, characters) {
   // The structure of the raw data is screwed up due to the layout of the original
   // table. Characters that have more than 4 liked items (such as Bernadetta) get
   // an extra row which convertjson.com interprets as a distinct row.
@@ -38,10 +31,7 @@ function processLikedItems() {
     likedItems[character] = cleanItems;
   }
 
-  fs.writeFileSync(
-    "public/data/liked-items.json",
-    JSON.stringify(likedItems, null, 2)
-  );
+  return likedItems;
 }
 
 module.exports = { processLikedItems };

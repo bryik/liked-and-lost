@@ -2,6 +2,7 @@ import React from "react";
 
 import { useAsync } from "./hooks/useAsync";
 import fetchItemData from "./utilities/fetchItemData";
+import Search from "./components/Search";
 
 const LoadingApp = () => {
   return (
@@ -22,10 +23,12 @@ const ErrorApp = (props) => {
 
 const SuccessApp = (props) => {
   const { data } = props;
-  console.log(data);
+  const { items } = data;
   return (
-    <div className="helvetica">
-      <p>TODO</p>
+    <div className="helvetica pa3 ma3">
+      <h2 className="f3 lh-title fr">(FE: Three Houses)</h2>
+      <h1 className="f2 lh-title">Liked & Lost Items</h1>
+      <Search items={items} />
     </div>
   );
 };

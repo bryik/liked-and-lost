@@ -1,0 +1,1223 @@
+[
+  {
+    "name": "Carnation",
+    "likedBy": [
+      "Edelgard"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Armored Bear Stuffy",
+    "likedBy": [
+      "Edelgard",
+      "Bernadetta",
+      "Mercedes",
+      "Lysithea",
+      "Marianne",
+      "Hilda",
+      "Flayn"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Monarch Studies Book",
+    "likedBy": [
+      "Edelgard"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Board Game",
+    "likedBy": [
+      "Edelgard",
+      "Claude",
+      "Hubert",
+      "Sylvain",
+      "Yuri"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Training Weight",
+    "likedBy": [
+      "Dimitri",
+      "Caspar",
+      "Felix",
+      "Raphael",
+      "Leonie",
+      "Catherine"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Whetstone",
+    "likedBy": [
+      "Dimitri",
+      "Ferdinand",
+      "Caspar",
+      "Catherine",
+      "Balthus",
+      "Jeritza"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Riding Boots",
+    "likedBy": [
+      "Dimitri",
+      "Claude",
+      "Ferdinand",
+      "Ingrid"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Ceremonial Sword",
+    "likedBy": [
+      "Dimitri",
+      "Felix",
+      "Ignatz",
+      "Gilbert",
+      "Balthus"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Book of Crest Designs",
+    "likedBy": [
+      "Claude",
+      "Linhardt",
+      "Lysithea",
+      "Hanneman",
+      "Constance"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Exotic Spices",
+    "likedBy": [
+      "Claude",
+      "Petra",
+      "Dedue",
+      "Ashe",
+      "Shamir",
+      "Hapi",
+      "Anna"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Coffee Beans",
+    "likedBy": [
+      "Hubert",
+      "Shamir",
+      "Hapi",
+      "Anna"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "The History of Fodlan",
+    "likedBy": [
+      "Hubert",
+      "Seteth"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Tea Leaves",
+    "likedBy": [
+      "Ferdinand",
+      "Lorenz",
+      "Hanneman",
+      "Constance"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Tasty Baked Treat",
+    "likedBy": [
+      "Linhardt",
+      "Ashe",
+      "Raphael",
+      "Lysithea",
+      "Flayn",
+      "Yuri",
+      "Hapi",
+      "Jeritza"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Fishing Float",
+    "likedBy": [
+      "Linhardt",
+      "Leonie",
+      "Seteth",
+      "Gilbert",
+      "Alois"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Hunting Dagger",
+    "likedBy": [
+      "Caspar",
+      "Petra",
+      "Felix",
+      "Leonie",
+      "Shamir",
+      "Cyril",
+      "Hapi",
+      "Jeritza"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Smoked Meat",
+    "likedBy": [
+      "Caspar",
+      "Petra",
+      "Felix",
+      "Ingrid",
+      "Raphael",
+      "Cyril",
+      "Hapi"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Pitcher Plant",
+    "likedBy": [
+      "Bernadetta",
+      "Hapi"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Book of Sheet Music",
+    "likedBy": [
+      "Bernadetta",
+      "Dorothea",
+      "Annette",
+      "Lorenz",
+      "Hilda",
+      "Manuela",
+      "Shamir"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Watering Can",
+    "likedBy": [
+      "Bernadetta",
+      "Dedue",
+      "Cyril"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Landscape Painting",
+    "likedBy": [
+      "Bernadetta",
+      "Sylvain",
+      "Ignatz",
+      "Rhea (NPC)",
+      "Anna"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Dapper Handkerchief",
+    "likedBy": [
+      "Bernadetta",
+      "Sylvain",
+      "Marianne",
+      "Hilda",
+      "Seteth",
+      "Flayn",
+      "Hanneman"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Gemstone Beads",
+    "likedBy": [
+      "Dorothea",
+      "Mercedes",
+      "Hilda",
+      "Manuela"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Stylish Hair Clip",
+    "likedBy": [
+      "Dorothea",
+      "Annette",
+      "Hilda",
+      "Flayn"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Sunflower",
+    "likedBy": [
+      "Petra",
+      "Alois",
+      "Shamir"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Floral Adornment",
+    "likedBy": [
+      "Dedue",
+      "Lorenz",
+      "Marianne",
+      "Alois"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Violet",
+    "likedBy": [
+      "Ashe"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Legends of Chivalry",
+    "likedBy": [
+      "Ashe",
+      "Ingrid",
+      "Catherine"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Ancient Coin",
+    "likedBy": [
+      "Ashe",
+      "Ignatz",
+      "Alois",
+      "Rhea (NPC)",
+      "Balthus"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Lavender",
+    "likedBy": [
+      "Mercedes"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Tasty Bake Treat",
+    "likedBy": [
+      "Mercedes"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Goddess Statuette",
+    "likedBy": [
+      "Mercedes",
+      "Ignatz",
+      "Manuela",
+      "Gilbert",
+      "Rhea (NPC)",
+      "Yuri",
+      "Anna"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Arithmetic Textbook",
+    "likedBy": [
+      "Annette",
+      "Lysithea",
+      "Hanneman",
+      "Yuri",
+      "Constance"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Rose",
+    "likedBy": [
+      "Lorenz",
+      "Jeritza"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Blue Cheese",
+    "likedBy": [
+      "Raphael",
+      "Manuela",
+      "Catherine",
+      "Balthus",
+      "Anna"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Forget-me-nots",
+    "likedBy": [
+      "Ignatz",
+      "Flayn",
+      "Anna"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Lily",
+    "likedBy": [
+      "Lysithea"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Lily of the Valley",
+    "likedBy": [
+      "Marianne",
+      "Constance"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Anemone",
+    "likedBy": [
+      "Hilda"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "Baby’s Breath",
+    "likedBy": [
+      "Cyril"
+    ],
+    "lostBy": []
+  },
+  {
+    "name": "White Glove",
+    "likedBy": [],
+    "lostBy": [
+      "Edelgard"
+    ]
+  },
+  {
+    "name": "Time-worn Quill Pen",
+    "likedBy": [],
+    "lostBy": [
+      "Edelgard"
+    ]
+  },
+  {
+    "name": "Eastern Porcelain",
+    "likedBy": [],
+    "lostBy": [
+      "Edelgard"
+    ]
+  },
+  {
+    "name": "Dulled Longsword",
+    "likedBy": [],
+    "lostBy": [
+      "Dimitri"
+    ]
+  },
+  {
+    "name": "Black Leather Gloves",
+    "likedBy": [],
+    "lostBy": [
+      "Dimitri"
+    ]
+  },
+  {
+    "name": "Training Logbook",
+    "likedBy": [],
+    "lostBy": [
+      "Dimitri"
+    ]
+  },
+  {
+    "name": "Leather Bow Sheath",
+    "likedBy": [],
+    "lostBy": [
+      "Claude"
+    ]
+  },
+  {
+    "name": "Mild Stomach Poison",
+    "likedBy": [],
+    "lostBy": [
+      "Claude"
+    ]
+  },
+  {
+    "name": "Board Game Piece",
+    "likedBy": [],
+    "lostBy": [
+      "Claude"
+    ]
+  },
+  {
+    "name": "Hresvelg Treatise",
+    "likedBy": [],
+    "lostBy": [
+      "Hubert"
+    ]
+  },
+  {
+    "name": "Noxious Handkerchief",
+    "likedBy": [],
+    "lostBy": [
+      "Hubert"
+    ]
+  },
+  {
+    "name": "Folding Razor",
+    "likedBy": [],
+    "lostBy": [
+      "Hubert"
+    ]
+  },
+  {
+    "name": "Maintenance Oil",
+    "likedBy": [],
+    "lostBy": [
+      "Ferdinand"
+    ]
+  },
+  {
+    "name": "Agricultural Survey",
+    "likedBy": [],
+    "lostBy": [
+      "Ferdinand"
+    ]
+  },
+  {
+    "name": "Bag of Tea Leaves",
+    "likedBy": [],
+    "lostBy": [
+      "Ferdinand"
+    ]
+  },
+  {
+    "name": "The Saints Revealed",
+    "likedBy": [],
+    "lostBy": [
+      "Linhardt"
+    ]
+  },
+  {
+    "name": "Feather Pillow",
+    "likedBy": [],
+    "lostBy": [
+      "Linhardt"
+    ]
+  },
+  {
+    "name": "Animated Bait",
+    "likedBy": [],
+    "lostBy": [
+      "Linhardt"
+    ]
+  },
+  {
+    "name": "Thunderbrand Replica",
+    "likedBy": [],
+    "lostBy": [
+      "Caspar"
+    ]
+  },
+  {
+    "name": "Tattered Overcoat",
+    "likedBy": [],
+    "lostBy": [
+      "Caspar"
+    ]
+  },
+  {
+    "name": "Grounding Charm",
+    "likedBy": [],
+    "lostBy": [
+      "Caspar"
+    ]
+  },
+  {
+    "name": "Needle and Thread",
+    "likedBy": [],
+    "lostBy": [
+      "Bernadetta"
+    ]
+  },
+  {
+    "name": "Still-Life Picture",
+    "likedBy": [],
+    "lostBy": [
+      "Bernadetta"
+    ]
+  },
+  {
+    "name": "Hedgehog Case",
+    "likedBy": [],
+    "lostBy": [
+      "Bernadetta"
+    ]
+  },
+  {
+    "name": "Silver Brooch",
+    "likedBy": [],
+    "lostBy": [
+      "Dorothea"
+    ]
+  },
+  {
+    "name": "Songstress Poster",
+    "likedBy": [],
+    "lostBy": [
+      "Dorothea"
+    ]
+  },
+  {
+    "name": "Lovely Comb",
+    "likedBy": [],
+    "lostBy": [
+      "Dorothea"
+    ]
+  },
+  {
+    "name": "Exotic Feather",
+    "likedBy": [],
+    "lostBy": [
+      "Petra"
+    ]
+  },
+  {
+    "name": "Small Tanned Hide",
+    "likedBy": [],
+    "lostBy": [
+      "Petra"
+    ]
+  },
+  {
+    "name": "Annotated Dictionary",
+    "likedBy": [],
+    "lostBy": [
+      "Petra"
+    ]
+  },
+  {
+    "name": "Gold Earring",
+    "likedBy": [],
+    "lostBy": [
+      "Dedue"
+    ]
+  },
+  {
+    "name": "Gardening Sheers",
+    "likedBy": [],
+    "lostBy": [
+      "Dedue"
+    ]
+  },
+  {
+    "name": "Iron Cooking Pot",
+    "likedBy": [],
+    "lostBy": [
+      "Dedue"
+    ]
+  },
+  {
+    "name": "Black Iron Spur",
+    "likedBy": [],
+    "lostBy": [
+      "Felix"
+    ]
+  },
+  {
+    "name": "Sword Belt Fragment",
+    "likedBy": [],
+    "lostBy": [
+      "Felix"
+    ]
+  },
+  {
+    "name": "Toothed Dagger",
+    "likedBy": [],
+    "lostBy": [
+      "Felix"
+    ]
+  },
+  {
+    "name": "Moon Knight’s Tale",
+    "likedBy": [],
+    "lostBy": [
+      "Ashe"
+    ]
+  },
+  {
+    "name": "Evil-Repelling Amulet",
+    "likedBy": [],
+    "lostBy": [
+      "Ashe"
+    ]
+  },
+  {
+    "name": "Bundle of Herbs",
+    "likedBy": [],
+    "lostBy": [
+      "Ashe"
+    ]
+  },
+  {
+    "name": "Unused Lipstick",
+    "likedBy": [],
+    "lostBy": [
+      "Sylvain"
+    ]
+  },
+  {
+    "name": "Crumpled Love Letter",
+    "likedBy": [],
+    "lostBy": [
+      "Sylvain"
+    ]
+  },
+  {
+    "name": "The History of Sreng",
+    "likedBy": [],
+    "lostBy": [
+      "Sylvain"
+    ]
+  },
+  {
+    "name": "Book of Ghost Stories",
+    "likedBy": [],
+    "lostBy": [
+      "Mercedes"
+    ]
+  },
+  {
+    "name": "Fruit Preserves",
+    "likedBy": [],
+    "lostBy": [
+      "Mercedes"
+    ]
+  },
+  {
+    "name": "How to Bake Sweets",
+    "likedBy": [],
+    "lostBy": [
+      "Mercedes"
+    ]
+  },
+  {
+    "name": "Unfinished Score",
+    "likedBy": [],
+    "lostBy": [
+      "Annette"
+    ]
+  },
+  {
+    "name": "School of Sorcery Book",
+    "likedBy": [],
+    "lostBy": [
+      "Annette"
+    ]
+  },
+  {
+    "name": "Wax Diptych",
+    "likedBy": [],
+    "lostBy": [
+      "Annette"
+    ]
+  },
+  {
+    "name": "Pegasus Horseshoes",
+    "likedBy": [],
+    "lostBy": [
+      "Ingrid"
+    ]
+  },
+  {
+    "name": "Jousting Almanac",
+    "likedBy": [],
+    "lostBy": [
+      "Ingrid"
+    ]
+  },
+  {
+    "name": "Curry Comb",
+    "likedBy": [],
+    "lostBy": [
+      "Ingrid"
+    ]
+  },
+  {
+    "name": "Artificial Flower",
+    "likedBy": [],
+    "lostBy": [
+      "Lorenz"
+    ]
+  },
+  {
+    "name": "A Treatise on Etiquette",
+    "likedBy": [],
+    "lostBy": [
+      "Lorenz"
+    ]
+  },
+  {
+    "name": "Silk Handkerchief",
+    "likedBy": [],
+    "lostBy": [
+      "Lorenz"
+    ]
+  },
+  {
+    "name": "Wooden Button",
+    "likedBy": [],
+    "lostBy": [
+      "Raphael"
+    ]
+  },
+  {
+    "name": "Burlap Sack of Rocks",
+    "likedBy": [],
+    "lostBy": [
+      "Raphael"
+    ]
+  },
+  {
+    "name": "Big Spoon",
+    "likedBy": [],
+    "lostBy": [
+      "Raphael"
+    ]
+  },
+  {
+    "name": "Blue Stone",
+    "likedBy": [],
+    "lostBy": [
+      "Ignatz"
+    ]
+  },
+  {
+    "name": "Art Book",
+    "likedBy": [],
+    "lostBy": [
+      "Ignatz"
+    ]
+  },
+  {
+    "name": "Letter to the Goddess",
+    "likedBy": [],
+    "lostBy": [
+      "Ignatz"
+    ]
+  },
+  {
+    "name": "Encyclopedia of Sweets",
+    "likedBy": [],
+    "lostBy": [
+      "Lysithea"
+    ]
+  },
+  {
+    "name": "Princess Doll",
+    "likedBy": [],
+    "lostBy": [
+      "Lysithea"
+    ]
+  },
+  {
+    "name": "New Bottle of Perfume",
+    "likedBy": [],
+    "lostBy": [
+      "Lysithea"
+    ]
+  },
+  {
+    "name": "Bag of Seeds",
+    "likedBy": [],
+    "lostBy": [
+      "Marianne"
+    ]
+  },
+  {
+    "name": "How to be Tidy",
+    "likedBy": [],
+    "lostBy": [
+      "Marianne"
+    ]
+  },
+  {
+    "name": "Confessional Letter",
+    "likedBy": [],
+    "lostBy": [
+      "Marianne"
+    ]
+  },
+  {
+    "name": "Handmade Hair Clip",
+    "likedBy": [],
+    "lostBy": [
+      "Hilda"
+    ]
+  },
+  {
+    "name": "Spotless Bandage",
+    "likedBy": [],
+    "lostBy": [
+      "Hilda"
+    ]
+  },
+  {
+    "name": "Used Bottle of Perfume",
+    "likedBy": [],
+    "lostBy": [
+      "Hilda"
+    ]
+  },
+  {
+    "name": "Hand Drawn Map",
+    "likedBy": [],
+    "lostBy": [
+      "Leonie"
+    ]
+  },
+  {
+    "name": "Crude Arrowheads",
+    "likedBy": [],
+    "lostBy": [
+      "Leonie"
+    ]
+  },
+  {
+    "name": "Fur Scarf",
+    "likedBy": [],
+    "lostBy": [
+      "Leonie"
+    ]
+  },
+  {
+    "name": "Unfinished Fable",
+    "likedBy": [],
+    "lostBy": [
+      "Seteth"
+    ]
+  },
+  {
+    "name": "Old Fishing Rod",
+    "likedBy": [],
+    "lostBy": [
+      "Seteth"
+    ]
+  },
+  {
+    "name": "Snapped Writing Quill",
+    "likedBy": [],
+    "lostBy": [
+      "Seteth"
+    ]
+  },
+  {
+    "name": "Antique Clasp",
+    "likedBy": [],
+    "lostBy": [
+      "Flayn"
+    ]
+  },
+  {
+    "name": "Old Map of Enbarr",
+    "likedBy": [],
+    "lostBy": [
+      "Flayn"
+    ]
+  },
+  {
+    "name": "Dusty Book of Fables",
+    "likedBy": [],
+    "lostBy": [
+      "Flayn"
+    ]
+  },
+  {
+    "name": "Lens Cloth",
+    "likedBy": [],
+    "lostBy": [
+      "Hanneman"
+    ]
+  },
+  {
+    "name": "Hammer and Chisel",
+    "likedBy": [],
+    "lostBy": [
+      "Hanneman"
+    ]
+  },
+  {
+    "name": "Sketch of a Sigil",
+    "likedBy": [],
+    "lostBy": [
+      "Hanneman"
+    ]
+  },
+  {
+    "name": "Wellness Herbs",
+    "likedBy": [],
+    "lostBy": [
+      "Manuela"
+    ]
+  },
+  {
+    "name": "Clean Dusting Cloth",
+    "likedBy": [],
+    "lostBy": [
+      "Manuela"
+    ]
+  },
+  {
+    "name": "Light Purple Veil",
+    "likedBy": [],
+    "lostBy": [
+      "Manuela"
+    ]
+  },
+  {
+    "name": "Noseless Puppet",
+    "likedBy": [],
+    "lostBy": [
+      "Gilbert"
+    ]
+  },
+  {
+    "name": "Carving Hammer",
+    "likedBy": [],
+    "lostBy": [
+      "Gilbert"
+    ]
+  },
+  {
+    "name": "Silver Necklace",
+    "likedBy": [],
+    "lostBy": [
+      "Gilbert"
+    ]
+  },
+  {
+    "name": "Introduction to Magic",
+    "likedBy": [],
+    "lostBy": [
+      "Alois"
+    ]
+  },
+  {
+    "name": "Foreign Gold Coin",
+    "likedBy": [],
+    "lostBy": [
+      "Alois"
+    ]
+  },
+  {
+    "name": "Mysterious Notebook",
+    "likedBy": [],
+    "lostBy": [
+      "Alois"
+    ]
+  },
+  {
+    "name": "Weathered Cloak",
+    "likedBy": [],
+    "lostBy": [
+      "Catherine"
+    ]
+  },
+  {
+    "name": "Letter to Rhea",
+    "likedBy": [],
+    "lostBy": [
+      "Catherine"
+    ]
+  },
+  {
+    "name": "Badge of Graduation",
+    "likedBy": [],
+    "lostBy": [
+      "Catherine"
+    ]
+  },
+  {
+    "name": "Bundle of Dry Hemp",
+    "likedBy": [],
+    "lostBy": [
+      "Shamir"
+    ]
+  },
+  {
+    "name": "Centipede Picture",
+    "likedBy": [],
+    "lostBy": [
+      "Shamir"
+    ]
+  },
+  {
+    "name": "Animal Bone Dice",
+    "likedBy": [],
+    "lostBy": [
+      "Shamir"
+    ]
+  },
+  {
+    "name": "Well-Used Hatchet",
+    "likedBy": [],
+    "lostBy": [
+      "Cyril"
+    ]
+  },
+  {
+    "name": "Portrait of Rhea",
+    "likedBy": [],
+    "lostBy": [
+      "Cyril"
+    ]
+  },
+  {
+    "name": "Old Cleaning Cloth",
+    "likedBy": [],
+    "lostBy": [
+      "Cyril"
+    ]
+  },
+  {
+    "name": "Wooden Flask",
+    "likedBy": [],
+    "lostBy": [
+      "Jeralt (NPC)"
+    ]
+  },
+  {
+    "name": "Elegant Hair Clip",
+    "likedBy": [],
+    "lostBy": [
+      "Rhea (NPC)"
+    ]
+  },
+  {
+    "name": "Seiros Scriptures",
+    "likedBy": [],
+    "lostBy": [
+      "Rhea (NPC)"
+    ]
+  },
+  {
+    "name": "Faded Star Chart",
+    "likedBy": [],
+    "lostBy": [
+      "Rhea (NPC)"
+    ]
+  },
+  {
+    "name": "Makeup Brush",
+    "likedBy": [],
+    "lostBy": [
+      "Yuri"
+    ]
+  },
+  {
+    "name": "Suspicious Dice",
+    "likedBy": [],
+    "lostBy": [
+      "Yuri"
+    ]
+  },
+  {
+    "name": "Well-Worn Hammock",
+    "likedBy": [],
+    "lostBy": [
+      "Balthus"
+    ]
+  },
+  {
+    "name": "Stiff Hand Wrap",
+    "likedBy": [],
+    "lostBy": [
+      "Balthus"
+    ]
+  },
+  {
+    "name": "Nimbus Charm",
+    "likedBy": [],
+    "lostBy": [
+      "Constance"
+    ]
+  },
+  {
+    "name": "Repellent Powder",
+    "likedBy": [],
+    "lostBy": [
+      "Constance"
+    ]
+  },
+  {
+    "name": "Shiny Striated Pebble",
+    "likedBy": [],
+    "lostBy": [
+      "Hapi"
+    ]
+  },
+  {
+    "name": "Basket of Berries",
+    "likedBy": [],
+    "lostBy": [
+      "Hapi"
+    ]
+  },
+  {
+    "name": "Jar of Sweets",
+    "likedBy": [],
+    "lostBy": [
+      "Jeritza"
+    ]
+  },
+  {
+    "name": "Black Hair Tie",
+    "likedBy": [],
+    "lostBy": [
+      "Jeritza"
+    ]
+  },
+  {
+    "name": "Armor Clasp",
+    "likedBy": [],
+    "lostBy": [
+      "Jeritza"
+    ]
+  },
+  {
+    "name": "Secret Ledger",
+    "likedBy": [],
+    "lostBy": [
+      "Anna"
+    ]
+  },
+  {
+    "name": "Balance Scale",
+    "likedBy": [],
+    "lostBy": [
+      "Anna"
+    ]
+  },
+  {
+    "name": "Rare Item Index",
+    "likedBy": [],
+    "lostBy": [
+      "Anna"
+    ]
+  }
+]

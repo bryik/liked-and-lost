@@ -1,10 +1,4 @@
-const fs = require("fs");
-
-function processLostItems() {
-  const rawLostItems = JSON.parse(
-    fs.readFileSync("data-wrangling/raw/lost-items.json")
-  );
-
+function processLostItems(rawLostItems) {
   const lostItems = {};
   // A list of characters is useful for processing /raw/liked-items.json.
   const characters = [];
@@ -16,11 +10,7 @@ function processLostItems() {
     lostItems[character] = cleanItems;
   }
 
-  fs.writeFileSync(
-    "public/data/lost-items.json",
-    JSON.stringify(lostItems, null, 2)
-  );
-  fs.writeFileSync("public/data/characters.json", JSON.stringify(characters));
+  return { lostItems, characters };
 }
 
 module.exports = { processLostItems };
