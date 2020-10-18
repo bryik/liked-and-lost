@@ -2,6 +2,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/34608218-a042-40ca-8046-ae761d637026/deploy-status)](https://app.netlify.com/sites/liked-and-lost/deploys)
 
+<img alt="A search box above a list of Fire Emblem characters and items." src="./preview.png">
+
 ## available scripts
 
 In the project directory, you can run:
