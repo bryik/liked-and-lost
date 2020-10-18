@@ -15,7 +15,13 @@ GitHubCorner.defaultProps = {
 export default function GitHubCorner(props) {
   const { url } = props;
   return (
-    <a href={url} className="github-corner" aria-label="View source on GitHub">
+    <a
+      href={url}
+      className="github-corner"
+      aria-label="View source on GitHub"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
       <svg
         width="80"
         height="80"
