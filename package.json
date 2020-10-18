@@ -12,7 +12,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "wrangle": "node ./data-wrangling/processor."
+    "wrangle": "node ./data-wrangling/processor.js"
   },
   "eslintConfig": {
     "extends": "react-app"
