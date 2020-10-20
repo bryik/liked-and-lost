@@ -1,18 +1,11 @@
 import React from "react";
-import PropTypes from "prop-types";
 
-import { useAsync } from "./hooks/useAsync";
 import useWindowSize from "./hooks/useWindowSize";
-import fetchItemData from "./utilities/fetchItemData";
 import Search from "./components/Search";
 import GitHubCorner from "./components/GitHubCorner";
+import { items } from "./items.js";
 
-const LoadingApp = (props) => {
-  return <p>Loading...</p>;
-};
-
-const SuccessApp = (props) => {
-  const { items } = props;
+function App() {
   const { width } = useWindowSize();
 
   const descriptionText = (
@@ -44,50 +37,6 @@ const SuccessApp = (props) => {
         <h1 className="f2 lh-title">Liked & Lost Items</h1>
         {description}
         <Search items={items} />
-      </div>
-    </>
-  );
-};
-SuccessApp.propTypes = {
-  items: PropTypes.arrayOf(
-    PropTypes.shape({
-      name: PropTypes.string,
-      likedBy: PropTypes.arrayOf(PropTypes.string),
-      lostBy: PropTypes.arrayOf(PropTypes.string),
-    })
-  ),
-};
-
-function App() {
-  const { status, value, error } = useAsync(fetchItemData, true);
-
-  let innerUi;
-  switch (status) {
-    case "idle":
-      innerUi = <LoadingApp />;
-      break;
-    case "pending":
-      innerUi = <LoadingApp />;
-      break;
-    case "error":
-      throw error;
-    case "success":
-      // Unpack retrieved data.
-      const { items } = value;
-      innerUi = <SuccessApp items={items} />;
-      break;
-    default:
-      console.warn(`Unknown status: ${status} in <App/>.`);
-  }
-
-  return (
-    <>
-      <GitHubCorner url="https://github.com/bryik/liked-and-lost" />
-      <div
-        className="helvetica pa3 ma3"
-        style={{ margin: "0 auto", maxWidth: "960px" }}
-      >
-        {innerUi}
       </div>
     </>
   );

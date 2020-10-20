@@ -1,1 +1,0 @@
-Raw data sourced from [Gifts & Lost Items by Serenes Forest](https://serenesforest.net/three-houses/monastery/gifts-lost-items/) and converted from an HTML table to a JSON array by [convertjson.com](https://www.convertjson.com/html-table-to-json.htm).
